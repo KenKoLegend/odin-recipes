@@ -4,6 +4,8 @@ Created a website for a restaurant as a exercise from odin
 
 Learned skills:
 
-HTML
-Improvement Git and GitHub skills
-CSS from Djano and Python projects
+HTML<br>
+Improvement Git and GitHub skills<br>
+CSS from Djano and Python projects<br>
+
+Main Page is still empty yet, only Lasagna Recipe is working

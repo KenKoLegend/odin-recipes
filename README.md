@@ -6,3 +6,4 @@ Learned skills:
 
 HTML
 Improvement Git and GitHub skills
+CSS from Djano and Python projects

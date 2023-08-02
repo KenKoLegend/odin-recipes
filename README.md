@@ -7,5 +7,7 @@ Learned skills:
 HTML<br>
 Improvement Git and GitHub skills<br>
 CSS from Djano and Python projects<br>
-
-Main Page is still empty yet, only Lasagna Recipe is working
+Improvements stylesheet CSS<br>
+CSS classes and Div classes<br>
+Connecting everything<br>
+loading images and href them<br>

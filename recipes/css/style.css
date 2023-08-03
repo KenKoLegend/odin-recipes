@@ -4,8 +4,7 @@ body{
     background-attachment: fixed;
     background-size: cover;
     font-family:'Courier New', Courier, monospace;
-    padding-top: 200px;
-    padding-bottom: 200px;
+    padding-top: 20px;
 }
 
 h1, h2, h3, p, li, .col-sm  {
@@ -13,11 +12,15 @@ h1, h2, h3, p, li, .col-sm  {
     font-weight: normal;
     font-family:'Courier New', Courier, monospace;
 }
-
-.container {
+.navbar {
+    margin-bottom: 100px;
+}
+.container { 
     text-align: center;
     width: 90%;
-    margin:auto;
+    margin:auto;  
+    border-radius: 50px;
+    background-color: rgba(54, 54, 54, 0.4);
 }
 
 @media screen and (min-width: 768px)
@@ -26,6 +29,10 @@ h1, h2, h3, p, li, .col-sm  {
     text-align: center;
     width: 50%;
     margin:auto;
-    padding-right: 600px;
+    background-color: rgba(54, 54, 54, 0.4);
+    padding: 20px;
+    border-radius: 100px;
+    margin-left: 50px;
 }
 }
+

@@ -1,16 +1,22 @@
+
 body{
     background-image: url("img/background1.jpg") !important;
     background-image: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     font-family:'Courier New', Courier, monospace;
-    padding-top: 20px;
+
+    line-height: 1.5;
 }
 
 h1, h2, h3, p, li, .col-sm  {
-    color: white;
+    color: white !important;
     font-weight: normal;
     font-family:'Courier New', Courier, monospace;
+}
+
+li {
+    list-style: none;
 }
 .navbar {
     margin-bottom: 100px;
@@ -30,9 +36,28 @@ h1, h2, h3, p, li, .col-sm  {
     width: 50%;
     margin:auto;
     background-color: rgba(54, 54, 54, 0.4);
-    padding: 20px;
     border-radius: 100px;
-    margin-left: 50px;
+    padding-left: 200px !important;
+    padding-right: 200px !important;
 }
 }
 
+.container-1 { 
+    text-align: center;
+    width: 90%;
+    margin:auto;  
+    border-radius: 50px;
+    background-color: rgba(54, 54, 54, 0.4);
+}
+
+@media screen and (min-width: 768px)
+{
+.container-1 {
+    text-align: center;
+    width: 50%;
+    margin:auto;
+    background-color: rgba(54, 54, 54, 0.4);
+    padding: 50px;
+    border-radius: 100px;
+}
+}
